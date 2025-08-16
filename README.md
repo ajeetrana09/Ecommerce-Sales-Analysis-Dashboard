@@ -17,3 +17,7 @@ The dashboard features:
       * Donut charts for category-wise sales and payment mode distribution
       * Clustered column chart for monthly profit trends
 * Slicers: Quarter-wise and State-wise filters for dynamic exploration
+
+* Screenshots / Demos:
+       Dashboard looks like:
+       Example: 
