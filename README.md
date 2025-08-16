@@ -19,5 +19,4 @@ The dashboard features:
 * Slicers: Quarter-wise and State-wise filters for dynamic exploration
 
 * Screenshots / Demos:
-       Dashboard looks like:
        Example: (https://github.com/ajeetrana09/Ecommerce-Sales-Analysis-Dashboard/blob/main/Ecommerce.png)
