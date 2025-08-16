@@ -1,5 +1,8 @@
 # Ecommerce-Sales-Analysis-Dashboard
 E-commerce Sales Analysis Dashboard Project
+
+I have created an e-commerce sales Analysis Dashboard in Power BI to analyze sales performance and provide meaningful insights.
+
 I worked on data cleaning, data modeling, creating DAX measures, and building interactive visualizations to transform raw data into meaningful analysis. The dashboard highlights:
 
 * Sales performance and profit trends
