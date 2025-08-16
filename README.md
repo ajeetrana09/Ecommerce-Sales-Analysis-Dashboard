@@ -20,4 +20,4 @@ The dashboard features:
 
 * Screenshots / Demos:
        Dashboard looks like:
-       Example: 
+       Example: (https://github.com/ajeetrana09/Ecommerce-Sales-Analysis-Dashboard/blob/main/Ecommerce.png)
